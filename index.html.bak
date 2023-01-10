@@ -10,6 +10,12 @@
     <li><a href="/about">About me</a></li>
     <li><a href="/blog">Blog</a></li>
     <li><a href="/contact">Contact</a></li>
+	<h1>My GitHub Repositories</h1>
+<ul>
+  <li><a href="https://github.com/Blaconz/BlaconzOS">BlaconzOS</a></li>
+  <li><a href="https://github.com/Blaconz/SRJAPROJ">SRJAPROJ</a></li>
+</ul>
+
   </ul>
 </body>
 </html>
