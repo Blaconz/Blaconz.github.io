@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>My Website</title>
+</head>
 <body>
-<h1>Hell Yeah</h1>
-<p>The Mage is Back</p>
+  <h1>Welcome to my website!</h1>
+  <p>This is the front page.</p>
+  <ul>
+    <li><a href="/about">About me</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
 </body>
 </html>
