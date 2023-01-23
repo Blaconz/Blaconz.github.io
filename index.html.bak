@@ -3,11 +3,11 @@
 <style>
 body {
         font-family: ;
-        color: purple;
+        color: #C1A49E ;
         font-size: 100%;
     }
     h2 {
-        color: purple;
+        color: #C1A49E ;
     }
     a {
         line-height: 50px;

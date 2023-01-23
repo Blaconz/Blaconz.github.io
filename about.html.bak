@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 <html>
+<style>
+body {
+        font-family: ;
+        color: #C1A49E ;
+        font-size: 100%;
+    }
+    h2 {
+        color: #C1A49E ;
+    }
+    a {
+        line-height: 50px;
+    }
+    a:hover{
+        outline-style: dashed;
+    }
+</style>
+
 <head>
   <title>About Me</title>
 </head>
 <body>
   <h1>About Me</h1>
-  <img src="profile_picture.jpg" alt="Profile Picture">
+  <img src="Profile_Picture.png" alt="Profile Picture">
   <p>My name is Kaung (Mage) and do stuff</p>
   <p>I have experience in C#, Java, JS, HTML, C++.
   I like reading speculatives and writing pragmatisms.
