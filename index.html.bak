@@ -2,7 +2,8 @@
 
 <style>
 body {
-        font-family: ;
+        	font-family: Geneva; 
+
         color: #C1A49E ;
         font-size: 100%;
     }
@@ -18,9 +19,12 @@ body {
 </style>
 <html>
 <head>
+ <img src="Ogar.jpeg" alt="Ogar">
   <title>My Website</title>
 </head>
 <body>
+<body style="background-color:#F0FFF0;">
+</body>
   <h1>Welcome to my website!</h1>
   <p>This is the front page.</p>
   <ul>
